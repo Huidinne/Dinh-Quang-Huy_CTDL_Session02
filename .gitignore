@@ -1,0 +1,17 @@
+# Ignore JetBrains CLion project files
+.idea/
+
+# Ignore compiled binary files
+*.exe
+
+# Ignore CMake generated build folders
+cmake-build-*/
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore temporary files
+*.log
+*.tmp
+*.out
